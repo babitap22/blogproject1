@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sourabh1392/miniBloggingSite.git"
+    "url": "git+https://github.com/babitap22/blogproject1.git"
   },
   "author": "Sourabh Patil, Prageet Sharma, Garima Sachan, Babita Pradhan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sourabh1392/miniBloggingSite/issues"
+    "url": "https://github.com/babitap22/blogproject1/issues"
   },
-  "homepage": "https://github.com/sourabh1392/miniBloggingSite#readme",
+  "homepage": "https://github.com/babitap22/blogproject1#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cores": "^0.8.5",
